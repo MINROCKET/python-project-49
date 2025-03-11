@@ -30,7 +30,6 @@ def main():
             break
             
     if sum == 3:
-        #print(f"Congratulations, {name}!")
         print(f"Congratulations, {name}!")
 
 
