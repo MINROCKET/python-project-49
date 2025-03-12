@@ -1,15 +1,9 @@
 import random
 import prompt
 
-#def welcome_user():
- #   name = prompt.string('May I have your name? ')
- #   return f'Hello, {name}!'
-
 def main():
     print("Welcome to the Brain Games!")
-  #  welcome_user()
     name = prompt.string('May I have your name? ')
-    #return f'Hello, {name}!'
     print('Hello,', name, '!')  
     sum = 0
     print("Answer \"yes\" if the number is even, otherwise answer \"no\".")
